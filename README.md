@@ -1,7 +1,9 @@
 # dark-light-mode-react
 with yarn
 
-npm install --global yarn
-yarn --version
-yarn install
-yarn start
+<ol>
+  <li>npm install --global yarn</li>
+  <li>yarn --version</li>
+  <li>yarn install</li>
+  <li>yarn start</li>
+</ol>
